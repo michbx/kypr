@@ -10,7 +10,7 @@ Many KYP solution are possible. nostr enables on of the many solutions:
 - People typically follow people they trust
 - The people they trust, typically follow people they trust in turn
 
-If Alice has Bob's npub, she can calculate how many people she follows, follow Bob. This gives an indication of trust. 
+If Alice has Bob's npub, she can calculate how many people she follows, also follow Bob. This gives an indication of trust. 
 
 This method is not perfect:
 - Terrorists who also post about a topic that interests Alice or the people Alice follows, could still be qualified as trusted where Alice may in reality not be keen to interact with such peer
