@@ -6,7 +6,7 @@ In centralised finance with counterparty risk, governments have imposed KYC - Kn
 
 For those who want to be choiceful about who they interact with, kypr enables decentralised KYC or KYP - Know Your Peer.  This concept was first raised by [p2pfiat](https://habla.news/u/p2p@getalby.com/93397547.policy-and-the-p2p-digital-value) and [Ray Youssef](https://x.com/ray_noOnes/status/1788077854732722414). 
 
-Many KYP solution are possible. nostr enables on of the many solutions:
+Many KYP solutions are possible. nostr enables on of the many solutions:
 - People typically follow people they trust
 - The people they trust, typically follow people they trust in turn
 
